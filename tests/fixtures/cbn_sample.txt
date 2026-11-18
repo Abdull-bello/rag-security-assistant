@@ -1,0 +1,13 @@
+Sample framework text, not the real circular.
+
+1.0 Governance
+This part sets out sample governance rules.
+
+1.1 Board Oversight
+The board reviews the sample risk report.
+
+1.1.1 Reporting Line
+The security lead reports to the sample committee.
+
+2.0 Risk Assessment
+This part sets out sample assessment rules for the institution.

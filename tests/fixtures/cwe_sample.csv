@@ -1,0 +1,6 @@
+CWE-ID,Name,Weakness Abstraction,Status,Description,Extended Description,Related Weaknesses,Common Consequences,Potential Mitigations
+89,Sample injection weakness,Base,Draft,Sample description for the injection weakness.,Sample extended text.,::NATURE:ChildOf:CWE ID:943:VIEW ID:1000:ORDINAL:Primary::NATURE:ChildOf:CWE ID:74:VIEW ID:1000::,::SCOPE:Confidentiality:IMPACT:Read Application Data::SCOPE:Integrity:IMPACT:Modify Application Data::,::PHASE:Implementation:DESCRIPTION:Use parameterized queries.::
+74,Sample parent weakness,Class,Draft,Sample description for the parent.,,::NATURE:ParentOf:CWE ID:89:VIEW ID:1000::,,
+943,Sample second parent,Class,Draft,Sample description for the second parent.,,::NATURE:ParentOf:CWE ID:89:VIEW ID:1000::,,
+79,Sample unrelated weakness,Base,Draft,Sample description for an unrelated weakness.,,,::SCOPE:Integrity:IMPACT:Modify Application Data::,
+,"No id, skipped",Base,Draft,Skipped.,,,,

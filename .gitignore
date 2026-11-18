@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+data/*
+!data/.gitkeep
+output/
+chroma_db/
+
+.env
+*.zip
+*.docx
+*.pdf
+*.xlsx

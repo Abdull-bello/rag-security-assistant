@@ -1,0 +1,5 @@
+chapter_id,chapter_name,section_id,section_name,req_id,req_description,L
+V1,Encoding and Sanitization,V1.2,Injection Prevention,V1.2.1,Sample requirement one about output encoding.,1
+V1,Encoding and Sanitization,V1.2,Injection Prevention,V1.2.2,Sample requirement two about query parameters.,2
+V8,Authorization,V8.1,General Authorization Design,V8.1.1,Sample requirement three about access rules.,3
+V8,Authorization,V8.1,General Authorization Design,,Row with no id is skipped.,1

@@ -1,0 +1,5 @@
+item_id,cwe_class,query,finding_cwe
+example-01,injection,How do I prevent SQL injection when a query is built from user input,89
+example-02,injection,How do I stop OS command injection in a function that runs shell commands,78
+example-03,cryptographic_failures,How should passwords be hashed instead of using a weak hash,328
+example-04,broken_access_control,How do I prevent path traversal when a file name comes from the user,22
